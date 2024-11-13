@@ -2,3 +2,4 @@ hello world
 today i will be hitting a milestone in index2
 index 1 is for pure fun
 adding some stuff
+hello from index in master with stash
